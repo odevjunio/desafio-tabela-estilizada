@@ -4,21 +4,21 @@
     margin-left: 1px;
 }
 
-.cor-fonte-espacamento-bordas-tabelas {
+.fonte-bordas-tabelas {
     color: white;
     border-spacing: 1px;
 }
 
-.cor-fundo-dados-tabelas {
+.fundo-dados-tabelas {
     background-color: #424250;
 }
 
-.descricao-colunas-moda {
+.cabecalho-moda {
     font-weight: bold;
     background-color: #BB86FC;
 }
 
-.descricao-colunas-casa {
+.cabecalho-casa {
     font-weight: bold;
     background-color: #00C4B4;
 }
