@@ -1,7 +1,21 @@
+.titulo {
+    text-align: center;   
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .titulos-tabelas {
     font-weight: bold;
     margin: 12px;
-    margin-left: 1px;
+    margin-top: 30px ;
+    text-align: center;
 }
 
 .fonte-bordas-tabelas {
